@@ -1,6 +1,6 @@
 import pytest
 
-import TicTacToe_2016 as ttt
+import morpion as ttt
 
 class TestZone:
 
