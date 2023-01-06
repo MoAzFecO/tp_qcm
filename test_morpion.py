@@ -13,3 +13,12 @@ class TestZone:
         assert b == [[" ", " ", " "],
                      [" ", " ", " "],
              [" ", " ", " "]]
+    
+    def test_intro():
+        ttt.intro()
+        assert True
+    
+    def test_sym(self):
+        ttt.sym()
+        assert True 
+
